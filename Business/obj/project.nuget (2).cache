@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S+3RUCXwM1EBosJoKTVnYiRWwoVeAN9Ko1L7Izk/4Z/kW1x8NiVfuHaLKZC1+QgZnT7BK9BxLmG6Ouz3DP9dZg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\TesteHangFire\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fbgonzalez\\.nuget\\packages\\ncrontab\\3.3.1\\ncrontab.3.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

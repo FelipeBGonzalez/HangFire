@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NCrontab/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NCrontab.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NCrontab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NCrontab/3.3.1": {
+      "sha512": "G3tzcIIgsiyZyVbHNPyn5+adaM9UjeVNgjrRsvXU7wo2sMhpvpQrir29dcjIND53H/fuTdgg9nI3SfFFg7barA==",
+      "type": "package",
+      "path": "ncrontab/3.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "COPYING.txt",
+        "lib/net35/NCrontab.dll",
+        "lib/net35/NCrontab.pdb",
+        "lib/netstandard1.0/NCrontab.dll",
+        "lib/netstandard1.0/NCrontab.pdb",
+        "lib/netstandard2.0/NCrontab.dll",
+        "lib/netstandard2.0/NCrontab.pdb",
+        "ncrontab.3.3.1.nupkg.sha512",
+        "ncrontab.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "NCrontab >= 3.3.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sony Vaio\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projetos\\HangFire - Copia\\HangFire\\Business\\Business.csproj",
+      "projectName": "Business",
+      "projectPath": "C:\\Projetos\\HangFire - Copia\\HangFire\\Business\\Business.csproj",
+      "packagesPath": "C:\\Users\\Sony Vaio\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\HangFire - Copia\\HangFire\\Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Sony Vaio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "NCrontab": {
+            "target": "Package",
+            "version": "[3.3.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

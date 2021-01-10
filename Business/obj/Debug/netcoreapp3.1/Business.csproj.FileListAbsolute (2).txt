@@ -1,0 +1,8 @@
+C:\Projetos\TesteHangFire\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Projetos\TesteHangFire\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Projetos\TesteHangFire\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Projetos\TesteHangFire\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Projetos\TesteHangFire\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Projetos\TesteHangFire\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteHangFire\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Projetos\TesteHangFire\Business\obj\Debug\netcoreapp3.1\Business.pdb

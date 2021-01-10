@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Calculation",
+    "Cron": "*/15 * * * *",
+    "TimeZone": "E. South America Standard Time",
+    "Fila": "default"
+  },
+  {
+    "Name": "Teste",
+    "Cron": "*/15 * * * *",
+    "TimeZone": "E. South America Standard Time",
+    "Fila": "default"
+  }
+]
