@@ -32,7 +32,7 @@ O Hangfire fornece um modelo de programação unificado para lidar com tarefas e
 Installation
 -------------
 
-Hangfire is available as a NuGet package
+Hangfire está disponível como um pacote NuGet
 
 Hangfire.Core e Hangfire.AspNetCore
 
