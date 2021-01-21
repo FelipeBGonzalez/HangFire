@@ -168,7 +168,9 @@ public class HangfireJobsConfig
 
 ```
 Criamos a Classe CalculationReccuringJob
+
 Obs.: Nesse momento eu pego as configurações do Job de um arquivo Jobs.json, o ideal é que essa configuração fique no banco de dados.
+
 ![](Json.jpg)
 
 
@@ -199,9 +201,10 @@ public class CalculationRecurringJob : IRecurringJob
 
 ```
 Estrutura da Solution
+
 ![](Estrutura.jpg)
 
-Já podemos rodar nossa aplicação, 
+Já podemos rodar nossa aplicação. 
 
 Rodando o projeto agora, podemos encontrar o dashboard do Hangfire em “[SuaUrl]/hangfire”:
 ![](Painel.jpg)
