@@ -84,7 +84,7 @@ Usage
 Vamos lá.
 
 Criamos Asp.Net Core Empty
-![](CriacaoAspNetCore.jpg)
+![](Imagens/CriacaoAspNetCore.jpg)
 
 Alteramos arquivo Startup.cs com as configurações abaixo:
 
