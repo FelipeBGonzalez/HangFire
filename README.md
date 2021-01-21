@@ -171,7 +171,7 @@ Criamos a Classe CalculationReccuringJob
 
 Obs.: Nesse momento eu pego as configurações do Job de um arquivo Jobs.json, o ideal é que essa configuração fique no banco de dados.
 
-![](Json.jpg)
+![](Imagens/Json.jpg)
 
 
 ```csharp
@@ -202,21 +202,21 @@ public class CalculationRecurringJob : IRecurringJob
 ```
 Estrutura da Solution
 
-![](Estrutura.jpg)
+![](Imagens/Estrutura.jpg)
 
 Já podemos rodar nossa aplicação. 
 
 Rodando o projeto agora, podemos encontrar o dashboard do Hangfire em “[SuaUrl]/hangfire”:
-![](Painel.jpg)
+![](Imagens/Painel.jpg)
 
 Caso você rode utilizando um provider de banco de dados, o Hangfire criará as seguintes tabelas:
-![](Tabelas.jpg)
+![](Imagens/Tabelas.jpg)
 
 Tela principal temos o painel de monitoramento em tempo real:
 ![](Painel.jpg)
 
 Em Tarefas temos as Filas, mostrando as tarefas agendadas, tarefas processando, tarefas com sucesso e tarefas com falhas
-![](Fila.jpg)
+![](Imagens/Fila.jpg)
 
 Em tarefas recorrentes estão todas as tarefas configuradas para serem excutadas com sua configuração Cron, nesse caso só criamos uma.
-![](TarefasRecorrentes.jpg)
+![](Imagens/TarefasRecorrentes.jpg)
