@@ -207,16 +207,21 @@ Estrutura da Solution
 Já podemos rodar nossa aplicação. 
 
 Rodando o projeto agora, podemos encontrar o dashboard do Hangfire em “[SuaUrl]/hangfire”:
+
 ![](Imagens/Painel.jpg)
 
 Caso você rode utilizando um provider de banco de dados, o Hangfire criará as seguintes tabelas:
+
 ![](Imagens/Tabelas.jpg)
 
 Tela principal temos o painel de monitoramento em tempo real:
+
 ![](Painel.jpg)
 
-Em Tarefas temos as Filas, mostrando as tarefas agendadas, tarefas processando, tarefas com sucesso e tarefas com falhas
+Em Tarefas temos as Filas, mostrando as tarefas agendadas, tarefas processando, tarefas com sucesso e tarefas com falhas:
+
 ![](Imagens/Fila.jpg)
 
 Em tarefas recorrentes estão todas as tarefas configuradas para serem excutadas com sua configuração Cron, nesse caso só criamos uma.
+
 ![](Imagens/TarefasRecorrentes.jpg)
