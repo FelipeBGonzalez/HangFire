@@ -1,7 +1,7 @@
 Hangfire 
 =========
 
-[![Official Site](https://img.shields.io/badge/site-hangfire.io-blue.svg)](http://hangfire.io) [![Latest version](https://img.shields.io/nuget/v/Hangfire.svg)](https://www.nuget.org/packages?q=hangfire) [![License LGPLv3]
+[![Official Site](https://img.shields.io/badge/site-hangfire.io-blue.svg)](http://hangfire.io) [![Latest version]
 
 ## Build Status
 
@@ -12,7 +12,7 @@ Hangfire
 
 ## Overview
 
-Maneira incrivelmente fácil de executar tarefas ** dispare e esqueça **, ** atrasadas ** e ** recorrentes ** em ** aplicativos ASP.NET **. São suportados jobs com uso intensivo de CPU e E / S, de longa e curta duração. Nenhum serviço do Windows / Agendador de tarefas necessário. Apoiado por Redis, SQL Server, SQL Azure e MSMQ.
+Maneira incrivelmente fácil de executar tarefas ** dispare e esqueça **, ** atrasadas ** e ** recorrentes. São suportados jobs com uso intensivo de CPU e E / S, de longa e curta duração. Nenhum serviço do Windows / Agendador de tarefas necessário. Apoiado por Redis, SQL Server, SQL Azure e MSMQ.
 
 O Hangfire fornece um modelo de programação unificado para lidar com tarefas em segundo plano de uma ** maneira confiável ** e executá-las em hospedagem compartilhada, hospedagem dedicada ou em nuvem. Você pode começar com uma configuração simples e aumentar o poder computacional para trabalhos em segundo plano com o tempo para estes cenários:
 
